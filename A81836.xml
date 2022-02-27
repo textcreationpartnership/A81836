@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a person of quality, concerning the fines received by the church at its restoration, wherein, by the instance of one of the richest cathedrals a very fair guess may be made at the receipts and disbursements of all the rest. By a prebend of the Church of Canterbury</title>
+            <author>Du Moulin, Peter, 1601-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81836</idno>
+            <idno type="STC">Wing D2559</idno>
+            <idno type="STC">ESTC R231723</idno>
+            <idno type="EEBO-CITATION">99900018</idno>
+            <idno type="PROQUEST">99900018</idno>
+            <idno type="VID">133235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133235)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2496:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a person of quality, concerning the fines received by the church at its restoration, wherein, by the instance of one of the richest cathedrals a very fair guess may be made at the receipts and disbursements of all the rest. By a prebend of the Church of Canterbury</title>
+                  <author>Du Moulin, Peter, 1601-1684.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.];</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: P. D-M.</note>
+                  <note>P. D-M. = Pierre Du Moulin.--Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cathedrals --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133235:1" rendition="simple:additions"/>
+            <p>A LETTER TO A PERSON of QUALITY, <hi>Concerning the</hi> FINES <hi>Received by the</hi> CHURCH AT ITS RESTORATION, WHEREIN, By the inſtance of One of the Richeſt <hi>CATHE<g ref="char:EOLhyphen"/>DRALS</hi> a very fair gueſs may be made at the Receipts and Disburſements of All the Reſt.</p>
+            <p>
+               <hi>By a Prebend of the Church of</hi> Canterbury.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133235:2"/>
+            <pb n="1" facs="tcp:133235:2"/>
+            <head>CANTERBURY 1668.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>LAtely when you honoured me with a viſit in <hi>Canterbury,</hi> we fell upon a diſcourſe of <hi>Cathe<g ref="char:EOLhyphen"/>drals;</hi> of which your ſhort ſtay did not allow us to ſay enough for our mutual ſatisfaction. Did I want that Introduction to entertain you upon that ſubject, yet I could think of no fitter perſon, either for inge<g ref="char:EOLhyphen"/>nuity or place to deliver my thoughts unto. They are at this preſent renewed by a malig<g ref="char:EOLhyphen"/>nant Writer, who hath caſt a ground<g ref="char:EOLhyphen"/>leſs
+<note place="margin">In the Libel intituled, <hi>A Propoſition for the ſafety and peace of King and Kingdom,</hi> &amp;c. pag. 47.</note> and undeſerved <hi>Odium</hi> upon <hi>Ca<g ref="char:EOLhyphen"/>thedral</hi>-men, to work their ruine, and that of the Cathedral Churches with them. He miſrepreſents their Perſons and their Emo<g ref="char:EOLhyphen"/>luments, depreſſing the Perſons, and heightning the Emoluments, both unmeaſurably beyond truth and reality. He Characteriſeth the men <hi>low in their condi<g ref="char:EOLhyphen"/>tion and in their intereſts, covetous, and undeſervedly re<g ref="char:EOLhyphen"/>warded.</hi> He finds fault with the King for not ſeizing upon the <hi>Arrears</hi> of their <hi>Fines</hi> before their admiſſion. Saith that they got vaſt Emoluments, <hi>ſuch as never were and are never like to be again:</hi> That thoſe <hi>exceſſive riches were thrown upon them undeſervedly,</hi> and provokes
+<pb n="2" facs="tcp:133235:3"/> againſt them the envy of others as deſerving better of the King.</p>
+            <p>If by the <hi>lowneſs of their condition</hi> he underſtands their ſhortneſs in <hi>means,</hi> and makes poverty a vice, he ought to remember that they were brought to that condition by men of his gang, who ſequeſted them for being guilty of Loyalty to their Soveraign. And that whereas thoſe of the <hi>Laity</hi> that were in the ſame guilt were admitted to compound for their Eſtates, <hi>Clergy<g ref="char:EOLhyphen"/>men</hi> were deprived of their Livings, and kickt out of their Houſes. If their enemies be grieved at their pre<g ref="char:EOLhyphen"/>ferment, let them blame themſelves for bringing them to ſuch a low condition as made them eſpecial objects of the Royal compaſſion.</p>
+            <p>If by the <hi>lowneſs of their condition</hi> he means that of their <hi>extraction:</hi> Let that Gentleman (if he be one) know that moſt of them are not inferior in bloud to them that would bring them low. By the nobleneſs of their ſpirits in the hardeſt tryals they have expreſt that of their Birth and Education. But it is part of their calling to rejoyce in their <hi>Lowneſs,</hi> ſince it is a conformity with Chriſt their great Maſter.</p>
+            <p>As for <hi>lowneſs of Intereſts</hi> we know well enough that our old Perſecutors, who are now acting under new Vizards, would have us ſo diſintereſſed in the State by our Poverty, that we ſhould look unconcernedly upon publick actions and alterations, as having nothing to loſe. But whether poor or rich, we are high in Intereſt for the publick proſperity, upon the account of <hi>Con<g ref="char:EOLhyphen"/>ſcience;</hi> and have ſhewed ſo much by throwing off <hi>all</hi> other intereſſes for it.</p>
+            <p>Our undaunted conſtancy, great and long Suffer<g ref="char:EOLhyphen"/>ings, and loyal actings, cleer us of the other imputa<g ref="char:EOLhyphen"/>tion
+<pb n="3" facs="tcp:133235:3"/> of being <hi>undeſervedly rewarded:</hi> wherein his Ma<g ref="char:EOLhyphen"/>jeſties wiſdom and Equity is more taxed than we. Nei<g ref="char:EOLhyphen"/>ther can we be juſtly blamed as <hi>Covetous</hi> for enjoying his Royal bounty, and uſing the rights of our places. The moſt part of the <hi>Dignitaries</hi> advanced at his Ma<g ref="char:EOLhyphen"/>jeſties bleſſed return, were perſons that had loſt their Eſtates for his glorious Fathers ſervice: Couragious Holy men, who by their unwearied labours and the authority of their Piety, had kept the moſt part of the Engliſh ſubjects in their duty to God and the King, againſt the prevalency of the reigning Rebellion. Many of them had fought with their Pens againſt the uſurping Powers, to the great danger of their lives; which to ſave, they lived either in exile abroad, or ſhifting from place to place in the three Kingdoms. If after their long tugging againſt the Tyranny, they were rewarded by their long deſired Soveraign with ſome of the Churches goods, thoſe goods were ſet in their proper place, and cannot but injuriouſly be ſaid to be thrown upon ſuch men undeſervedly.</p>
+            <p>BUt <hi>they were vaſt Emoluments and exceſſive riches,</hi> ſaith the <hi>Libeller.</hi> So are all Church goods, where<g ref="char:EOLhyphen"/>ſoever Envy is the Controller, how little ſoever there be in the Receivers Books. I can give account of no other Chapter but the Metropolitical of <hi>Canterbury,</hi> of which I have the honor to be a Member. This being the firſt, and one of the beſt endowed of the Kingdom; if thoſe firſt and ſo enviouſly cryed up <hi>Emoluments of twenty years in one</hi> were but reaſonable at <hi>Canterbury,</hi> they could not be very <hi>Vaſt</hi> in other Cathedrals. Our <hi>Fines</hi> are divided equally, but that the Dean hath double the ſhare of a Prebend. Now I can give you this true ac<g ref="char:EOLhyphen"/>count, <hi>Sir,</hi> that of the total of that great In-come of
+<pb n="4" facs="tcp:133235:4"/> our firſt <hi>Fines</hi> (deducting the reparation of the Church and our Preſent to our Royal Benefactor) the ſhare of each of the twelve Canons was about eleven hundred pounds. Such a ſum was no exceſſive reward for long Sufferers, and conſtant Actors in the Kings Cauſe; of which the moſt part of our Society conſiſteth. I am none of the greateſt loſers of the Clergy: Yet I may truly ſay that this Proportion did hardly amount to the third part of my loſſes, by Sequeſtration and other violences of the War. Such moderate ſhowres falling upon Lands parched with a long drought, could not drench them to an Exuberancy, to leave pools above ground. The conditio<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of my Brethren cannot be much different from mine. We have been long learn<g ref="char:EOLhyphen"/>ing with St. <hi>Paul</hi> how to want, but have had no occaſi<g ref="char:EOLhyphen"/>on as yet to learn how to abound. But the popular ru<g ref="char:EOLhyphen"/>mour that we have all the money of the Land, hath taught us another Doctrine,—<hi>eſt inter cauſas paupertatis opinio divitiarum.</hi> Certainly one of the great cauſes of poverty is to be eſteemed rich; and another, to think our ſelves obliged to juſtify that opinion.</p>
+            <p>It is hard to ſay, whether the <hi>Libeller</hi> ſhews more injuſtice or ignorance, when he wiſheth <hi>that we had entred the preſent Honours and Revenues, and left the arrears for publick accounts or good works.</hi> Were it granted that the Revenue of the Church without <hi>Fines</hi> is ſufficient for us to keep Hoſpitality, and maintain the Quire, the Officers, the Schools, and the Alms<g ref="char:EOLhyphen"/>men of the Foundation, (of which we find it very ſhort.) What had become of ours and all the Cathe<g ref="char:EOLhyphen"/>dral Churches, if all the <hi>Fines</hi> had been taken from them before the admiſſion of the Canons? That of <hi>Canterbury</hi> (though much defaced by <hi>Culmer</hi> and the
+<pb n="5" facs="tcp:133235:4"/> Fanatick Souldiers, and decayed by a neglect of well nigh twenty years) was more entire than moſt Cathe<g ref="char:EOLhyphen"/>drals in <hi>England</hi> when we came to it: Yet in the year 1664 we found that the reparations of it ſtood us in <hi>Twelve thouſand</hi> pounds, all that expence ariſing out of <hi>Fines.</hi> But for the <hi>Fines,</hi> all the Cathedrals of the Kingdom by this time had been heaps of Ruines. Without the <hi>Fines</hi> theſe great Fabricks, the greateſt of <hi>Europe</hi> cannot yet be preſerved from ruin. And it is that ruin, and another following upon it of a better Church than the Material, which ſuch men as the <hi>Li<g ref="char:EOLhyphen"/>beller</hi> aim at, when they cry out againſt <hi>Fines,</hi> and would have them converted to other uſes. God keep the Church from ſuch Stewards; and enrich us with a better Patrimony of the Church than this Temporal, which brings little plenty, and breeds much Envy. It is the prayer,</p>
+            <closer>
+               <salute>Sir, </salute>
+               <signed>Of Your affectionate humble Servant, P. D-M.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
